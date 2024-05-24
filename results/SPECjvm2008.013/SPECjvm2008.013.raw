@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<specjvm-result>
+  <workload>SPECjvm2008 Base</workload>
+  <suite-build-version>SPECjvm2008 1.01 (20240524)</suite-build-version>
+  <run-info>
+    <spec.jvm2008.report.run.location>n/a</spec.jvm2008.report.run.location>
+    <spec.jvm2008.report.run.submitter.url>n/a</spec.jvm2008.report.run.submitter.url>
+    <spec.jvm2008.report.run.license>n/a</spec.jvm2008.report.run.license>
+    <spec.jvm2008.report.run.tester>amitkumar</spec.jvm2008.report.run.tester>
+    <spec.jvm2008.report.run.date>Fri May 24 08:12:37 IST 2024</spec.jvm2008.report.run.date>
+    <spec.jvm2008.report.run.submitter>n/a</spec.jvm2008.report.run.submitter>
+  </run-info>
+  <jvm-info>
+    <spec.jvm2008.report.jvm.vendor>Oracle Corporation</spec.jvm2008.report.jvm.vendor>
+    <spec.jvm2008.report.jvm.startup.launcher>default</spec.jvm2008.report.jvm.startup.launcher>
+    <spec.jvm2008.report.jvm.other.tuning> </spec.jvm2008.report.jvm.other.tuning>
+    <spec.jvm2008.report.jvm.vendor.url>https://java.oracle.com/</spec.jvm2008.report.jvm.vendor.url>
+    <spec.jvm2008.report.jvm.command.line.max.heap.size>n/a</spec.jvm2008.report.jvm.command.line.max.heap.size>
+    <spec.jvm2008.report.jvm.version>21.0.2+13-58 mixed mode</spec.jvm2008.report.jvm.version>
+    <spec.jvm2008.report.jvm.command.line>n/a</spec.jvm2008.report.jvm.command.line>
+    <spec.jvm2008.report.jvm.command.line.initial.heap.size>n/a</spec.jvm2008.report.jvm.command.line.initial.heap.size>
+    <spec.jvm2008.report.jvm.boot.class.path>n/a</spec.jvm2008.report.jvm.boot.class.path>
+    <spec.jvm2008.report.jvm.name>OpenJDK 64-Bit Server VM</spec.jvm2008.report.jvm.name>
+    <spec.jvm2008.report.jvm.app.class.path>SPECjvm2008.jar</spec.jvm2008.report.jvm.app.class.path>
+    <spec.jvm2008.report.jvm.available.date>n/a</spec.jvm2008.report.jvm.available.date>
+    <spec.jvm2008.report.jvm.java.specification>21</spec.jvm2008.report.jvm.java.specification>
+    <spec.jvm2008.report.jvm.address.bits>64</spec.jvm2008.report.jvm.address.bits>
+    <spec.jvm2008.report.jvm.startup.command.line> </spec.jvm2008.report.jvm.startup.command.line>
+  </jvm-info>
+  <sw-info>
+    <spec.jvm2008.report.sw.other.available> </spec.jvm2008.report.sw.other.available>
+    <spec.jvm2008.report.os.tuning> </spec.jvm2008.report.os.tuning>
+    <spec.jvm2008.report.sw.filesystem>n/a</spec.jvm2008.report.sw.filesystem>
+    <spec.jvm2008.report.os.available.date>n/a</spec.jvm2008.report.os.available.date>
+    <spec.jvm2008.report.sw.other.tuning> </spec.jvm2008.report.sw.other.tuning>
+    <spec.jvm2008.report.os.address.bits>n/a</spec.jvm2008.report.os.address.bits>
+    <spec.jvm2008.report.sw.other.name> </spec.jvm2008.report.sw.other.name>
+    <spec.jvm2008.report.os.name>Mac OS X</spec.jvm2008.report.os.name>
+  </sw-info>
+  <hw-info>
+    <spec.jvm2008.report.hw.available>n/a</spec.jvm2008.report.hw.available>
+    <spec.jvm2008.report.hw.vendor.url>n/a</spec.jvm2008.report.hw.vendor.url>
+    <spec.jvm2008.report.hw.number.of.cores.per.chip>n/a</spec.jvm2008.report.hw.number.of.cores.per.chip>
+    <spec.jvm2008.report.hw.address.bits>n/a</spec.jvm2008.report.hw.address.bits>
+    <spec.jvm2008.report.hw.cpu.speed>n/a</spec.jvm2008.report.hw.cpu.speed>
+    <spec.jvm2008.report.hw.cpu.cache.other>n/a</spec.jvm2008.report.hw.cpu.cache.other>
+    <spec.jvm2008.report.hw.cpu.vendor.url>n/a</spec.jvm2008.report.hw.cpu.vendor.url>
+    <spec.jvm2008.report.hw.cpu.cache.l2>n/a</spec.jvm2008.report.hw.cpu.cache.l2>
+    <spec.jvm2008.report.hw.cpu.cache.l1>n/a</spec.jvm2008.report.hw.cpu.cache.l1>
+    <spec.jvm2008.report.hw.logical.cpus>n/a</spec.jvm2008.report.hw.logical.cpus>
+    <spec.jvm2008.report.hw.number.of.chips>n/a</spec.jvm2008.report.hw.number.of.chips>
+    <spec.jvm2008.report.hw.memory.details>n/a</spec.jvm2008.report.hw.memory.details>
+    <spec.jvm2008.report.hw.details.other>n/a</spec.jvm2008.report.hw.details.other>
+    <spec.jvm2008.report.hw.cpu.vendor>n/a</spec.jvm2008.report.hw.cpu.vendor>
+    <spec.jvm2008.report.hw.model>n/a</spec.jvm2008.report.hw.model>
+    <spec.jvm2008.report.hw.number.of.cores>n/a</spec.jvm2008.report.hw.number.of.cores>
+    <spec.jvm2008.report.hw.memory.size>n/a</spec.jvm2008.report.hw.memory.size>
+    <spec.jvm2008.report.hw.vendor>n/a</spec.jvm2008.report.hw.vendor>
+    <spec.jvm2008.report.hw.cpu.name>n/a</spec.jvm2008.report.hw.cpu.name>
+    <spec.jvm2008.report.hw.threading.enabled>n/a</spec.jvm2008.report.hw.threading.enabled>
+    <spec.jvm2008.report.hw.threads.per.core>n/a</spec.jvm2008.report.hw.threads.per.core>
+  </hw-info>
+  <violations>
+    <violation>Property specjvm.iteration.time must be 240s for publication.</violation>
+    <violation>Property specjvm.run.checksum.validation must be true for publication.</violation>
+    <violation>Not a compliant sequence of benchmarks for publication.</violation>
+    <violation>Property specjvm.benchmark.warmup.time must be 120s for publication.</violation>
+  </violations>
+  <configs>
+    <config>specjvm.benchmark.threads=8</config>
+  </configs>
+  <benchmark-results>
+    <benchmark-result
+      name="check"
+      category="null"
+      args=""
+      minIter="1"
+      maxIter="1"
+      numberBmThreads="1"
+      numberOfLoops="1"
+      bmType="functional"
+      runMode="1">
+      <warmup-result>
+    </warmup-result>
+    <iterations>
+      <iteration-result
+        iteration="1"
+        expectedLoops="1"
+        startTime="1716518557291"
+        endTime="1716518557375"
+        operations="1.0">
+        <loops>
+          <loop-result bmThreadId="1" loopCnt="1" startTime="1716518557291" endTime="1716518557375"/>
+        </loops>
+        <analyzers>
+        </analyzers>
+        <analyzer-results>
+        </analyzer-results>
+      </iteration-result>
+    </iterations>
+    </benchmark-result>
+    <benchmark-result
+      name="compiler.compiler"
+      category="null"
+      args=""
+      minIter="1"
+      maxIter="1"
+      numberBmThreads="8"
+      warmupTime="60000"
+      iterationTime="60s"
+      bmType="multi"
+      runMode="2">
+      <warmup-result>
+      <iteration-result
+        iteration="0"
+        expectedDuration="60000"
+        startTime="1716518558140"
+        endTime="1716518618140"
+        operations="-9.278478685654055E9">
+        <errors>
+          <error>Harness interruped during measurement period.</error>
+        </errors>
+        <loops>
+          <loop-result bmThreadId="3" loopCnt="1" startTime="1716518558140" endTime="1716518558325">
+            <errors>
+              <error>Validation failure on line 1.
+    Expected output: 
+    [001] Total checksum:-3167923542039497468
+    Received output: 
+    [001] ERROR: compiler exit code: 1
+Complete output: /Users/amitkumar/SPECjvm2008/build/release/SPECjvm2008/results/SPECjvm2008.013/compiler.compiler.bt3.i0.op1.error.log
+Validation file: /Users/amitkumar/SPECjvm2008/build/release/SPECjvm2008/resources/compiler.compiler/validity.compiler.compiler.dat
+
+</error>
+            </errors>
+          </loop-result>
+          <loop-result bmThreadId="1" loopCnt="1" startTime="1716518558140" endTime="1716518558391">
+            <errors>
+              <error>Validation failure on line 1.
+    Expected output: 
+    [001] Total checksum:-3167923542039497468
+    Received output: 
+    [001] ERROR: compiler exit code: 1
+Complete output: /Users/amitkumar/SPECjvm2008/build/release/SPECjvm2008/results/SPECjvm2008.013/compiler.compiler.bt1.i0.op1.error.log
+Validation file: /Users/amitkumar/SPECjvm2008/build/release/SPECjvm2008/resources/compiler.compiler/validity.compiler.compiler.dat
+
+</error>
+            </errors>
+          </loop-result>
+          <loop-result bmThreadId="5" loopCnt="1" startTime="1716518558141" endTime="1716518558400">
+            <errors>
+              <error>Validation failure on line 1.
+    Expected output: 
+    [001] Total checksum:-3167923542039497468
+    Received output: 
+    [001] ERROR: compiler exit code: 1
+Complete output: /Users/amitkumar/SPECjvm2008/build/release/SPECjvm2008/results/SPECjvm2008.013/compiler.compiler.bt5.i0.op1.error.log
+Validation file: /Users/amitkumar/SPECjvm2008/build/release/SPECjvm2008/resources/compiler.compiler/validity.compiler.compiler.dat
+
+</error>
+            </errors>
+          </loop-result>
+          <loop-result bmThreadId="6" loopCnt="1" startTime="1716518558141" endTime="1716518558402">
+            <errors>
+              <error>Validation failure on line 1.
+    Expected output: 
+    [001] Total checksum:-3167923542039497468
+    Received output: 
+    [001] ERROR: compiler exit code: 1
+Complete output: /Users/amitkumar/SPECjvm2008/build/release/SPECjvm2008/results/SPECjvm2008.013/compiler.compiler.bt6.i0.op1.error.log
+Validation file: /Users/amitkumar/SPECjvm2008/build/release/SPECjvm2008/resources/compiler.compiler/validity.compiler.compiler.dat
+
+</error>
+            </errors>
+          </loop-result>
+          <loop-result bmThreadId="8" loopCnt="1" startTime="1716518558142" endTime="1716518558402">
+            <errors>
+              <error>Validation failure on line 1.
+    Expected output: 
+    [001] Total checksum:-3167923542039497468
+    Received output: 
+    [001] ERROR: compiler exit code: 1
+Complete output: /Users/amitkumar/SPECjvm2008/build/release/SPECjvm2008/results/SPECjvm2008.013/compiler.compiler.bt8.i0.op1.error.log
+Validation file: /Users/amitkumar/SPECjvm2008/build/release/SPECjvm2008/resources/compiler.compiler/validity.compiler.compiler.dat
+
+</error>
+            </errors>
+          </loop-result>
+          <loop-result bmThreadId="2" loopCnt="1" startTime="1716518558140" endTime="1716518558406">
+            <errors>
+              <error>Validation failure on line 1.
+    Expected output: 
+    [001] Total checksum:-3167923542039497468
+    Received output: 
+    [001] ERROR: compiler exit code: 1
+Complete output: /Users/amitkumar/SPECjvm2008/build/release/SPECjvm2008/results/SPECjvm2008.013/compiler.compiler.bt2.i0.op1.error.log
+Validation file: /Users/amitkumar/SPECjvm2008/build/release/SPECjvm2008/resources/compiler.compiler/validity.compiler.compiler.dat
+
+</error>
+            </errors>
+          </loop-result>
+          <loop-result bmThreadId="4" loopCnt="1" startTime="1716518558140" endTime="1716518558407">
+            <errors>
+              <error>Validation failure on line 1.
+    Expected output: 
+    [001] Total checksum:-3167923542039497468
+    Received output: 
+    [001] ERROR: compiler exit code: 1
+Complete output: /Users/amitkumar/SPECjvm2008/build/release/SPECjvm2008/results/SPECjvm2008.013/compiler.compiler.bt4.i0.op1.error.log
+Validation file: /Users/amitkumar/SPECjvm2008/build/release/SPECjvm2008/resources/compiler.compiler/validity.compiler.compiler.dat
+
+</error>
+            </errors>
+          </loop-result>
+          <loop-result bmThreadId="7" loopCnt="1" startTime="1716518558141" endTime="1716518558408">
+            <errors>
+              <error>Validation failure on line 1.
+    Expected output: 
+    [001] Total checksum:-3167923542039497468
+    Received output: 
+    [001] ERROR: compiler exit code: 1
+Complete output: /Users/amitkumar/SPECjvm2008/build/release/SPECjvm2008/results/SPECjvm2008.013/compiler.compiler.bt7.i0.op1.error.log
+Validation file: /Users/amitkumar/SPECjvm2008/build/release/SPECjvm2008/resources/compiler.compiler/validity.compiler.compiler.dat
+
+</error>
+            </errors>
+          </loop-result>
+        </loops>
+        <analyzers>
+        </analyzers>
+        <analyzer-results>
+        </analyzer-results>
+      </iteration-result>
+    </warmup-result>
+    <iterations>
+    </iterations>
+    </benchmark-result>
+  </benchmark-results>
+</specjvm-result>
